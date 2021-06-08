@@ -1,0 +1,10 @@
+Alicante:10
+Valencia:20
+Madrid:30
+Paris:35
+Castellon:5
+Barcelona:7
+Bilbao:25
+Vigo:9
+Pamplona:4
+Getafe:33

@@ -1,0 +1,5 @@
+jose:e:456:0:4:5:Muerto
+ee:ee:2:0:3:4:Muerto
+a:a:4:0:5:6:Muerto
+r:r:6:7:5:4:Vivo
+t:t:5:0:6:7:Muerto

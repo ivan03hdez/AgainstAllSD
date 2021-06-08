@@ -1,0 +1,27 @@
+Alicante:22.920013 Valencia:20.080017 Barcelona:23.619995 Bilbao:29.5
+Jugador:0 Alias: jose Nivel: 0
+Jugador:1 Alias: ee Nivel: 0
+Jugador:2 Alias: a Nivel: 0
+Jugador:3 Alias: r Nivel: 7
+Jugador:4 Alias: t Nivel: 0
+  0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 
+ 0   M           M                                            
+ 1   M                    M  .     M     .                    
+ 2.        7     .           M        .  M     .  .           
+ 3      .        M  M  .     .  M        .        M     M     
+ 4.                          .  .           .  M        .  .  
+ 5                  .           .                 .        .  
+ 6.        .        .        .  .     .     .  .     .        
+ 7      M  .                    .           .     .           
+ 8                  .        .  .                    .     .  
+ 92     .                 .        .     M  M           .  M  
+10                  .  .  .  .        .  .           .  .     
+11   .     .        .  .  .        M        .     M     .     
+12         .              .              M     .  M  .  .     
+134                 .           .  .  .     .     .  .        
+14      .           .  .                       .        .  .  
+15   .        M  .        .           .  .        .           
+16            .  .  .  .     .  .           .     .  .  .  .  
+17      .        .           .  M           .     .           
+18   .  M     .     .     .  .  .        .  .  .              
+19      .  .              .                          .  .     

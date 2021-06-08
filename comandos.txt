@@ -1,0 +1,7 @@
+COMANDOS POR SI TE SALE ERROR node.js "express"
+npm install -g npm
+npm install --save express
+
+index.html --> HAY QUE CAMBIAR localhost por la IP del ordenador donde este el API_ENGINE
+borrar mapa.txt antes de correccion y tener en cuenta qu el fichero mapa.txt se escribe al segundo de iniciar el AA_Nucelo_Engine
+
